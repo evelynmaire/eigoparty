@@ -1,0 +1,33 @@
+body {
+    background: url(images/bg.jpg) #dee2e6;
+    color: rgb(51, 51, 51);
+    letter-spacing: 0.04em;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+
+.cp-cross{
+    color: #000000;
+    } 
+
+.email {
+    background: #ffffff;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.test {
+    border: 1px solid red;
+}
+
+.lightsearchbar {
+    background: #ffffff;
+}
+
+.attach {
+    font-size: 1.4em;
+    text-align: right;
+    padding-top: 0.5em;
+}
